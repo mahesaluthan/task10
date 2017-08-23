@@ -1,0 +1,6 @@
+c:\users\agus\documents\visual studio 2015\Projects\kalkulator revisi\kalkulator revisi\bin\Debug\kalkulator revisi.exe.config
+c:\users\agus\documents\visual studio 2015\Projects\kalkulator revisi\kalkulator revisi\bin\Debug\kalkulator revisi.exe
+c:\users\agus\documents\visual studio 2015\Projects\kalkulator revisi\kalkulator revisi\bin\Debug\kalkulator revisi.pdb
+c:\users\agus\documents\visual studio 2015\Projects\kalkulator revisi\kalkulator revisi\obj\Debug\kalkulator revisi.exe
+c:\users\agus\documents\visual studio 2015\Projects\kalkulator revisi\kalkulator revisi\obj\Debug\kalkulator revisi.pdb
+c:\users\agus\documents\visual studio 2015\Projects\kalkulator revisi\kalkulator revisi\obj\Debug\kalkulator revisi.csprojResolveAssemblyReference.cache
